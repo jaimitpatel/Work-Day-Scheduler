@@ -25,7 +25,7 @@ $(document).ready(function () {
 
 
 
-  $("#currentDay").text(moment().format("MMMM Do YYYY , h:mm:ss a"));
+  $("#currentDay").text(moment().format("dddd, MMMM Do YYYY , h:mm:ss a"));
   $("currentTime").text(moment().format("h:mm:ss a"));
 
  
