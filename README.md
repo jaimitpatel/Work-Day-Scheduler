@@ -1,6 +1,8 @@
 # Work-Day-Scheduler
 
 The challenge for this week was to create a day planner which would allow any user to save data entered into local storage, and be pulled whenever you restarted the site.
+
+
 The way I was able to do this was to use moment.js to current time and date.
 
 This is what we had to accomplish:
@@ -16,5 +18,12 @@ We were given a starter code to work with, but had to make it look similar to th
 
 
 These are the links to all the sites:
+
+
+
 https://jaimitpatel.github.io/Work-Day-Scheduler/
+
+
+
 https://github.com/jaimitpatel/Work-Day-Scheduler/
+
