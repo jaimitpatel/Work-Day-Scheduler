@@ -3,7 +3,7 @@
 The challenge for this week was to create a day planner which would allow any user to save data entered into local storage, and be pulled whenever you restarted the site.
 
 
-The way I was able to do this was to use moment.js to current time and date.
+The way I was able to do this was to use moment.js to in order to find current date and time.
 
 This is what we had to accomplish:
 
