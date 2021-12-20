@@ -15,5 +15,6 @@ We were given a starter code to work with, but had to make it look similar to th
 
 
 
-The github link for the repo is- https://github.com/jaimitpatel/Work-Day-Scheduler
-the deployed page link is- https://jaimitpatel.github.io/Work-Day-Scheduler/
+These are the links to all the sites:
+https://jaimitpatel.github.io/Work-Day-Scheduler/
+https://github.com/jaimitpatel/Work-Day-Scheduler/
